@@ -1,0 +1,33 @@
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #10245f;
+    margin-top: 2px;
+    height: 35em;    
+}
+.cdiv{
+    margin: 10%;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+h2{
+    margin: 4px;
+    margin-bottom: 6px;
+}
+input{
+    width: 16em;
+    height: 1.5em;
+}
+button{
+    border-radius: 10px;
+    width: 7em;
+    height: 2.4em;
+    background-color: #010b2c;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+#line{
+    background-color: #ffffff;
+    width: 6px;
+    border-radius: 10px;
+}

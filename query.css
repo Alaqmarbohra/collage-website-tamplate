@@ -1,0 +1,22 @@
+#query{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: #10245f;
+    color: rgb(255, 255, 255);
+    padding: 2em;
+    padding-left: 40%;
+    font-size: x-large;
+}
+input,textarea{
+    padding: 4px;
+    width: 20em;
+}
+button{
+    width: 100px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #010b2c;
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    font-size: medium;
+}

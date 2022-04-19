@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: #010b2c;
+    background-color: rgb(255, 255, 255);
+    margin: 4px;
+}
+#about{
+    text-align:justify;
+    font-size: large;
+    padding: 8px;
+    color: #10245f;
+    background-color: #ffffff;
+    margin-bottom:4px ;
+}
+h3{
+    color: #010b2c;
+}

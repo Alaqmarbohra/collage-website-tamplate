@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background-color: #10245f;
+    color: rgb(255, 255, 255);
+    padding: 6px;
+    margin-top: 3px;
+}
+#contact{
+    color: #10245f;
+    text-align: center;
+    padding: 10px;
+}
